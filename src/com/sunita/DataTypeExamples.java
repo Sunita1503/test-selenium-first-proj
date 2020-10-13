@@ -1,11 +1,13 @@
 package com.sunita;
 
+//Java program to demonstrate primitive data types 
 public class DataTypeExamples {
 
 	int num1 = 15;
+	float 
 
 	// Addition of two numbers
-	public void addTwoNumbers() {
+	public void addTwoIntegerNumbers() {
 
 		int total;
 		total = num1 + 10;
@@ -14,7 +16,7 @@ public class DataTypeExamples {
 
 	public static void main(String[] args) {
 		DataTypeExamples objDataTypeExamples = new DataTypeExamples();
-		objDataTypeExamples.addTwoNumbers();
+		objDataTypeExamp
 	}
 
 }
